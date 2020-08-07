@@ -1,0 +1,6 @@
+- Create a first repo (done)
+- Add a ToDo list (done)
+- Check out Git History (done)
+- Add a list of task (done)
+- Pull changes fro remote (to  be done shortly)
+- Create a website
